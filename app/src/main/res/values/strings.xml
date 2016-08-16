@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">The best calculator calories</string>
+    <string-array name="Активность">
+        <item>Отсутствует</item>
+        <item>1-3 в неделю</item>
+        <item>3-5 в неделю</item>
+        <item>6-7 в неделю</item>
+        <item>Несколько раз в день</item>
+    </string-array>
+
+    <string-array name="Цель">
+        <item>Держать вес</item>
+        <item>Набрать вес</item>
+        <item>Сбросить вес</item>
+        <item>Быстро сбросить вес</item>
+
+    </string-array>
+
+    <string-array name="Пол">
+        <item>Мужской</item>
+        <item>Женский</item>
+
+
+    </string-array>
+
+
+
+
+
+
+
+
+</resources>
